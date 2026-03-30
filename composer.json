@@ -1,0 +1,16 @@
+{
+    "name": "resideln/public_html",
+    "autoload": {
+        "psr-4": {
+            "Resideln\\PublicHtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anon"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.3"
+    }
+}
